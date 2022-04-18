@@ -8,3 +8,6 @@
 .child3__title{
   text-align: left;
 }
+.link_text_hover:hover{
+  color: white;
+}
