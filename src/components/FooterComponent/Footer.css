@@ -8,6 +8,11 @@
 .child3__title{
   text-align: left;
 }
+.link_text_hover{
+  color: lightblue;
+  font-style: italic;
+}
 .link_text_hover:hover{
-  color: white;
+  color: whitesmoke;
+  font-style: italic;
 }
