@@ -79,7 +79,7 @@ const FooterComponent = () => {
                   84 College Road Atchuvely North Atchuvely.
                 </p>
                 <p className={classes.text}>
-                <a class="link_text_hover" href="#">kssconstruction1@gmail.com</a> 
+                <p class="link_text_hover">kssconstruction1@gmail.com</p> 
                 </p>
               </div>
             </div>
