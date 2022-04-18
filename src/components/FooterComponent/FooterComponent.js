@@ -69,9 +69,12 @@ const FooterComponent = () => {
           <Grid sm={12} xs={12} md={4}>
             <div className='child3__container' id="contact">
               <div className='child3__title'>
-                <h1>Address one</h1>
+                <h1>CONTACT US</h1>
                 <p className={classes.text}>
-                  ADDRESS
+                  84 College Road Atchuvely North Atchuvely.
+                </p>
+                <p className={classes.text}>
+                <a class="link_text_hover" href="#">kssconstruction1@gmail.com</a> 
                 </p>
               </div>
             </div>
