@@ -54,12 +54,17 @@ const FooterComponent = () => {
                     </ListItemAvatar>
                     <ListItem className={classes.text}>24/7 Support</ListItem>
                   </ListItem>
-
                   <ListItem>
-                    <ListItemAvatar>
+                  <span>(SL)</span><ListItemAvatar>
                       <FcPhone className={classes.footer_icons} />
                     </ListItemAvatar>
-                    <ListItem className={classes.text}>+44******</ListItem>
+                    <ListItem className={classes.text}>0094775180271</ListItem>
+                  </ListItem>
+                  <ListItem>
+                  <span>(UK)</span><ListItemAvatar>
+                      <FcPhone className={classes.footer_icons} />
+                    </ListItemAvatar>
+                    <ListItem className={classes.text}>00447415190148</ListItem>
                   </ListItem>
                 </List>
               </div>
@@ -68,7 +73,7 @@ const FooterComponent = () => {
 
           <Grid sm={12} xs={12} md={4}>
             <div className='child3__container' id="contact">
-              <div className='child3__title'>
+            <div className='child3__title'>
                 <h1>CONTACT US</h1>
                 <p className={classes.text}>
                   84 College Road Atchuvely North Atchuvely.
